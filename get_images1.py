@@ -1,4 +1,4 @@
-__author__ = 'Administrator'
+__author__ = 'hjl'
 '''
 需要requests模块的支持，直接使用pip安装即可，命令：pip install requests
 '''
